@@ -62,4 +62,14 @@ body {
     text-align: center;
     padding: 16px 0;
 }
+.estudante-titulo{
+    padding: 50px 0;
+    text-align: center;
+ }
+
+.estudante-todos{
+   display: grid;
+   grid-template-columns: 20% 20% 20% 20% 20%;
+
+ }
 
