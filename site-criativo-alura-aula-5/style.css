@@ -73,3 +73,15 @@ body {
 
  }
 
+
+.rodape{
+ background-color:black;
+ text-align: center;
+}
+
+
+.rodape-image{
+height: 60px;
+padding: 12px 0;
+}
+
